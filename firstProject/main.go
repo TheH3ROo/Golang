@@ -89,7 +89,6 @@ func main() {
 		"https://golang.org",
 		"https://api.github.com",
 		"https://httpbin.org/ip",
-		"http://robarkft.hu",
 	}
 	fmt.Println("")
 
