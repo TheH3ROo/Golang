@@ -2,7 +2,7 @@ package basics
 
 import (
 	"bytes"
-	helper "firstProject/Examples/Helper"
+	helper "firstProject/Examples/Helpers"
 	"fmt"
 	"math/big"
 	"strconv"

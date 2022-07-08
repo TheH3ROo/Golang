@@ -1,7 +1,7 @@
-package httpBasics
+package basics
 
 import (
-	helper "firstProject/Examples/Helper"
+	helper "firstProject/Examples/Helpers"
 	"fmt"
 	"net/http"
 	"sync"
