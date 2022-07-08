@@ -1,7 +1,7 @@
 package main
 
 import (
-	httpBasics "firstProject/Examples/HttpBasics"
+	basics "firstProject/Examples/Basics"
 )
 
 func main() {
@@ -10,6 +10,6 @@ func main() {
 		"https://api.github.com",
 		"https://httpbin.org/ip",
 	}
-	httpBasics.SiteSerial(urls)
-	httpBasics.SitesConcurrent(urls)
+	basics.SiteSerial(urls)
+	basics.SitesConcurrent(urls)
 }
