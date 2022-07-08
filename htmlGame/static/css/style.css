@@ -1,0 +1,14 @@
+body{
+  background-color: aqua;
+  color: brown;
+  width: 50%;
+  margin: 0 auto;
+}
+
+ul li{
+  cursor: pointer
+}
+
+.hurt{
+  text-decoration: wavy;
+}
