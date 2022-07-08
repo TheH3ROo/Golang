@@ -12,6 +12,6 @@ func FunctionTimer(name string) func() {
 	start := time.Now()
 
 	return func() {
-		fmt.Printf("%s took %v", name, time.Since(start))
+		fmt.Printf("\n%s took %v\n", name, time.Since(start))
 	}
 }
